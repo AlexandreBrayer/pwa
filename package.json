@@ -38,5 +38,10 @@
   "resolutions": {
     "sharp": "0.32.6",
     "sharp-ico": "0.1.5"
+  },
+  "dependencies": {
+    "@sveltejs/adapter-node": "^5.0.1",
+    "@sveltejs/adapter-vercel": "^5.3.1",
+    "express": "^4.19.2"
   }
 }
