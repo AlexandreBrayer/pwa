@@ -26,6 +26,7 @@
 	</h2>
 
 	<Counter />
+	<input type="file" accept="image/x-png,image/jpeg,image/gif"/>
 </section>
 
 <style>
